@@ -1,4 +1,4 @@
-#Projeto integrando Node e React
+# Projeto integrando Node e React
 
 
 #### O presente projeto visa a integração de React e Node, por meio do `fetch` na parte do ReactJS and `cors` na parte do NodeJS
