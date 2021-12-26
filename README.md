@@ -5,11 +5,11 @@
 
 
 
-#`Descrição`
+# `Descrição`
 
 #### É uma página web em que você criar uma conta, usando apenas seu nome, e adiciona amigos.
 
-#`Observações`
+# `Observações`
 
 #### Esta pasta abrange somente a parte de back-end feita em Node, para ver a parte em React, [clique aqui e leia o README](https://github.com/ter-9001/ReactandNode---React-Part)
 
