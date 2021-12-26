@@ -1,0 +1,34 @@
+[
+	{
+		"id": "01",
+		"name": "Steven Rogers",
+		"age": "200",
+		"friends": [
+			
+		]
+	},
+	{
+		"id": "02",
+		"name": "Gabriel",
+		"age": "22",
+		"friends": [
+			
+		]
+	},
+	{
+		"id": "3",
+		"name": "Maria",
+		"age": "47",
+		"friends": [
+			
+		]
+	},
+	{
+		"id": "4",
+		"name": "Tony Stark",
+		"age": "56",
+		"friends": [
+			
+		]
+	}
+]

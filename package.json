@@ -1,0 +1,17 @@
+{
+  "name": "nodeandreact",
+  "version": "1.0.0",
+  "description": "A project that bind Node and React by fetch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Martins",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "router": "^1.3.6"
+  }
+}
